@@ -3,7 +3,7 @@ https://www.kaggle.com/c/mercedes-benz-greener-manufacturing
 
 This is a baseline approach to the Mercedes Challenge on Kaggle
 
-The challenge consist on cutting the time a Mercedes-Benz spends on the test bench
+The challenge consist on cutting the time that Mercedes-Benz manufacturing spends on the test bench
 by removing non relevant features 
 
 the approach used here is based on :
